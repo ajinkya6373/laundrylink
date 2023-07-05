@@ -1,0 +1,116 @@
+ [
+      {
+        "username": "Vishal_Gorde",
+        "userId":11,
+        "email": "vishalg234@gmail.com",
+        "password": "password1",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.5789687, 74.4677098]
+        }
+      },
+      {
+        "username": "anjali_aher",
+        "userId":12,
+        "email": "anjaliaher3432@gmail.com",
+        "password": "password2",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.5791364,74.4675677]
+        }
+      },
+      {
+        "username": "rohit_sabale",
+        "userId":13,
+        "email": "rohit999@gmail.com",
+        "password": "password3",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.5793478, 74.4677913]
+        }
+      },
+      {
+        "username": "nisha_patil",
+        "userId":14,
+        "email": "nishapatil4774@gmail.com",
+        "password": "password4",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.5790758,74.4674533]
+        }
+      },
+      {
+        "username": "siddharth_19",
+        "userId":15,
+        "email": "siddharth19@gmail.com",
+        "password": "password5",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.577395, 74.462319]
+        }
+      },
+      {
+        "username": "shruti_saxena",
+        "userId":16,
+        "email": "shruti.saxena@gmail.com",
+        "password": "password6",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.577714, 74.462293
+
+        ]
+        }
+      },
+      {
+        "username": "rohanmishra",
+        "userId":17,
+        "email": "rohan.mishra@gmail.com",
+        "password": "password7",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.577072, 74.464509]
+        }
+      },
+      {
+        "username": "akash_vikhe",
+        "userId":18,
+        "email": "akashvikhe@gmail.com",
+        "password": "password8",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.0760, 72.8777]
+        }
+      },
+      {
+        "username": "manoj_salunkhe",
+        "userId":19,
+        "email": "manojs1243@gmail.com",
+        "password": "password9",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.577244, 74.463405]
+        }
+      },
+      {
+        "username": "ritik_bendre",
+        "userId":20,
+        "email": "ritika9876@gmail.com",
+        "password": "password10",
+        "isAdmin": false,
+        "location": {
+          "type": "Point",
+          "coordinates": [19.576563, 74.463191]
+        }
+      }   
+    ]
+    
+      

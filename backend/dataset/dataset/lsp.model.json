@@ -1,0 +1,144 @@
+{
+"lsps": [
+{
+    "name":"Ashok Maniyar",
+    "lspId":1,
+    "shopName":"a_z_laundry",
+    "description":"Our laundry service provides high-quality cleaning for all types of clothing, including delicates, sportswear, and formal wear. We use the latest equipment and environmentally friendly detergents to ensure your clothes are cleaned to perfection.",
+    "speciality":"Eco-friendly laundry services that use only environmentally friendly detergents, energy-efficient machines, and sustainable practices to minimize the carbon footprint.",
+    "email":"ashokmaniyar@gmail.com",
+    "passward":"passward",
+    "isAdmin":false,
+    "location":{
+      "type": "Point",
+      "coordinates": [19.577081, 74.462684]
+      }
+},
+{
+    "name":"Rohit Sawant",
+    "lspId":2,
+    "shopName":"RS laundry",
+    "description":"Our laundry service offers a convenient and affordable way to keep your clothes clean and fresh. We provide pickup and delivery services so you can focus on more important things in your busy schedule.",
+    "speciality":"Expert stain removal services for tough stains like wine, oil, grass, and ink. We use specialized products and techniques to get rid of the most stubborn stains.",
+    "email":"rohitsawant47@gmail.com",
+    "passward":"passward1",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.575519, 74.463047]
+      }
+},
+{
+    "name":"Mohit Rathod",
+    "lspId":3,
+    "shopName":"420_Laundry",
+    "description":"Our laundry service takes great pride in providing exceptional customer service. We're committed to ensuring that our customers receive the best possible experience every time they use our services.",
+    "speciality":"Tailoring and alteration services for clothing, including hemming, mending, and resizing. Our skilled tailors ensure that your clothes fit perfectly and look great.",
+    "email":"mohit420@gmail.com",
+    "passward":"passward2",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.576427, 74.458251]
+      }
+},
+{
+    "name":"Ajinkya Joshi",
+    "lspId":4,
+    "shopName":"Jadhav_Laundry",
+    "description":"Our laundry service is designed to save you time and effort. We handle everything from sorting to washing to folding, so you can enjoy your free time without worrying about your laundry.",
+    "speciality":"Dry-cleaning services that use a specialized process to clean delicate fabrics, like silk, cashmere, and wool, without damaging them.",
+    "email":"ajinkya2376@gmail.com",
+    "passward":"passward3",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.576023, 74.465074]
+      }
+},
+{
+    "name":"Baba Raut",
+    "lspId":5,
+    "shopName":"Baba's_Laundry",
+    "description":"Our laundry service is staffed by experienced professionals who take great care in handling your clothing. We have strict quality control standards to ensure that your clothes are cleaned and returned to you in pristine condition.",
+    "speciality":"Wedding gown preservation services that ensure your precious memories are protected for years to come. We use acid-free materials and careful preservation techniques to keep your wedding gown looking pristine.",
+    "email":"babaraut@gmail.com",
+    "passward":"passward4",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.579164, 74.459054]
+      }
+},
+{
+    "name":"Mohini Shaikh",
+    "lspId":6,
+    "shopName":"Amar_Laundry",
+    "description":"Our laundry service offers a variety of options to suit your individual needs. We offer different wash cycles, detergents, and fabric softeners to provide a personalized cleaning experience.",
+    "speciality":"Bedding and linen cleaning services for residential and commercial customers. We use high-quality detergents and specialized equipment to ensure that your bedding and linens are clean, fresh, and hygienic.",
+    "email":"mohini63@gmail.com",
+    "passward":"passward5",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.582655, 74.468633]
+      }
+},
+{
+    "name":"Ram Jadhav",
+    "lspId":7,
+    "shopName":"Ram_Laundrywala",
+    "description":"Our laundry service is committed to reducing our environmental impact. We use energy-efficient machines and eco-friendly detergents to minimize our carbon footprint and promote sustainability.",
+    "speciality":"Leather and suede cleaning and conditioning services for jackets, coats, and other leather and suede clothing items. We use specialized products and techniques to clean and restore the beauty of your leather and suede items.",
+    "email":"ramjadhav@gmail.com",
+    "passward":"passward6",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.579092, 74.455922]
+      }
+},
+{
+    "name":"Rohini Sarode",
+    "lspId":8,
+    "shopName":"Sai_Laundry",
+    "description":"Our laundry service offers competitive pricing without compromising on quality. We believe that everyone deserves clean, fresh clothes, and we're dedicated to providing affordable solutions for all.",
+    "speciality":"Shoe and handbag cleaning and repair services for leather, suede, and fabric items. Our skilled technicians use specialized products and techniques to clean and repair your shoes and handbags, so they look like new again.",
+    "email":"rohini435@gmail.com",
+    "passward":"passward7",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.581861, 74.469054]
+      }
+},
+{
+    "name":"Sagar Marathe",
+    "lspId":9,
+    "shopName":"om_laundry",
+    "description":"Our laundry service is available for both residential and commercial customers. Whether you're a busy professional or a business owner looking to outsource your laundry needs, we've got you covered.",
+    "speciality":"Specialized cleaning services for sports equipment, such as uniforms, jerseys, and athletic shoes. We use specialized equipment and techniques to remove dirt, sweat, and odor from sports equipment.",
+    "email":"sagarmarathe43@gmail.com",
+    "passward":"passward8",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.578592, 74.473118]
+      }
+},
+{
+    "name":"Pranav Mane",
+    "lspId":10,
+    "shopName":"Mr.Laundrywala",
+    "description":"Our laundry service is committed to making your life easier. We offer flexible scheduling, quick turnaround times, and a range of convenient payment options to ensure that our services are accessible to everyone.",
+    "speciality":"Commercial laundry services for businesses, such as hotels, hospitals, and restaurants. We offer tailored solutions for your business, including regular pickup and delivery services, specialized cleaning programs, and competitive pricing.",
+    "email":"pranav9889@gmail.com",
+    "passward":"passward9",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.579903, 74.457031]
+      }
+}
+]
+}

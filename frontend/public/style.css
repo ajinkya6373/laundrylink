@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+    /* user-select: none; */
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+  :root {
+    --primary--b: #8255D6;
+    --secondary--b:#F4EFFD;
+    --primary--text: #292929;
+    --secondary--text:#FDFCFF;    
+  }

@@ -1,0 +1,12 @@
+export {default as HomePage} from "./home";
+export {default as MainPage} from "./main";
+export {default as BrowsePage} from "./browse";
+export {default as CartPage} from "./cart";
+export{default as SignInPage} from "./Auth/signin";
+export{default as SignUpPage} from "./Auth/signup";
+export{default as LspRegistrationPage} from "./Auth/lspRegistration";
+export{default as ProfilePage} from "./profile";
+export{default as OrderDetailPage} from "./orderDetail";
+export{default as NotFoundPage} from "./error";
+export{default as CatalogPage} from "./catalogCreation";
+export{default as LspProfile} from "./lspProfile";

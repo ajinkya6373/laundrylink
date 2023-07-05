@@ -1,0 +1,64 @@
+{
+    "reviews":[
+    {
+    "userId":"11",
+    "username":"Vishal_Gorde",
+    "rating":2,
+    "comment":"Absolutely terrible service, my clothes came back smelling worse than when I sent them in."
+    },
+    {
+    "userId":"12",
+    "username":"anjali_aher",
+    "rating":2,
+    "comment":"Unreliable and inconsistent, never again will I use this laundry service."
+    },
+    {
+    "userId":"13",
+    "username":"rohit_sabale",
+    "rating":1,
+    "comment":"I had to wait over a week to get my clothes back, completely unacceptable."
+    },
+    {
+    "userId":"14",
+    "username":"nisha_patil",
+    "rating":4,
+    "comment":"Reliable and efficient, I always trust this laundry service to get my clothes back in a timely manner."
+    },
+    {
+    "userId":"15",
+    "username":"siddharth_19",
+    "rating":3,
+    "comment":"I had to wait hours for my laundry to be ready. It was a huge inconvenience."
+    },
+    {
+    "userId":"16",
+    "username":"shruti_saxena",
+    "rating":5,
+    "comment":"Super friendly and helpful staff, always willing to go the extra mile to ensure customer satisfaction."
+    },
+    {
+    "userId":"17",
+    "username":"rohanmishra",
+    "rating":4,
+    "comment":"Convenient and hassle-free, using this laundry service saved me a lot of time and effort."
+    },
+    {
+    "userId":"18",
+    "username":"akash_vikhe",
+    "rating":5,
+    "comment":"My clothes came back folded perfectly. I didn't have to lift a finger!"
+    },
+    {
+    "userId":"19",
+    "username":"manoj_salunkhe",
+    "rating":5,
+    "comment":"Highly recommended, this laundry service truly delivers on their promise of providing quality work and excellent customer service."
+    },
+    {
+    "userId":"20",
+    "username":"ritik_bendre",
+    "rating":2,
+    "comment":"The quality of their work is subpar at best, I would not recommend this laundry service to anyone."
+    }
+    ]
+    }

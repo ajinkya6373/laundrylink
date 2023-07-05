@@ -1,0 +1,487 @@
+
+POST http://localhost:4000/lsp/new
+content-type: application/json
+
+{
+  "name": "LSP01",
+  "email": "lsp01@example.com",
+  "password": "pass123",
+  "shopName": "LSP01 Shop",
+  "description":"description",
+  "location": {
+    "type": "Point",
+    "coordinates": [77.1234, 28.5678]
+}
+}
+
+###
+POST http://localhost:4000/user/new
+content-type: application/json
+
+{
+  "username": "testUser",
+  "email": "test@gmail.com",
+  "password": "pass123",
+  "location": {
+    "type": "Point",
+    "coordinates": [21.1458004,79.0881546]
+}
+}
+
+###
+GET http://localhost:4000/user/641d2ca142da3c99a9cf7af2
+content-type: application/json
+
+###
+GET http://localhost:4000/lsp/nearbylsp
+Content-Type: application/json
+
+
+###
+GET http://localhost:4000/lsp/lspRanking
+content-type: application/json
+
+
+###
+GET http://localhost:4000/lsp/641d2b2742da3c99a9cf7af0
+content-type: application/json
+###
+GET http://localhost:4000/lsp/addDummylsp
+content-type: application/json
+
+# catlog
+###
+POST http://localhost:4000/catalog/643a3ea557efc17eaa975029
+content-type: application/json
+
+{
+  "items": [
+        {
+        "name": "T-shirt",
+        "category":"Men's Clothing",
+        "description":"T-shirts",
+        "servicePrices":[
+            {
+                "serviceType":"Wash and Fold",
+                "price":15
+            },
+            {
+                "serviceType":"Ironing",
+                "price":7
+            },
+            {
+                "serviceType":"Alteration",
+                "price":50
+            }
+        ],
+        "discount":0 ,
+        "minimumquantity":1 ,
+        "maximumquantity":20 ,
+        "taxRate":6 ,
+        "tags": [
+            "tshirt"
+        ]
+
+        },
+        {
+            "name": "pant",
+            "category":"Men's Clothing",
+            "description":"trousers of all kind",
+            "servicePrices":[
+                {
+                    "serviceType":"Wash and Fold",
+                    "price":10
+                },
+                {
+                    "serviceType":"Ironing",
+                    "price":7
+                },
+                {
+                    "serviceType":"Alteration",
+                    "price":30
+                }
+            ],
+            "discount":0 ,
+            "minimumquantity":1 ,
+            "maximumquantity":20 ,
+            "taxRate":6 ,
+            "tags": [
+                "trousers","pants"
+            ]
+    
+        },
+        {
+            "name": "shirt",
+            "category":"Men's Clothing",
+            "description":"shirts",
+            "servicePrices":[
+                {
+                    "serviceType":"Wash and Fold",
+                    "price":15
+                },
+                {
+                    "serviceType":"Ironing",
+                    "price":10
+                },
+                {
+                    "serviceType":"Alteration",
+                    "price":50
+                }
+            ],
+            "discount":0 ,
+            "minimumquantity":1 ,
+            "maximumquantity":20 ,
+            "taxRate":6 ,
+            "tags": [
+                "shirt"
+            ]
+    
+        },
+        {
+            "name": "kurta",
+            "category":"Men's Clothing",
+            "description":"shirts",
+            "servicePrices":[
+                {
+                    "serviceType":"Wash and Fold",
+                    "price":20
+                },
+                {
+                    "serviceType":"Ironing",
+                    "price":10
+                },
+                {
+                    "serviceType":"Alteration",
+                    "price":50
+                }
+            ],
+            "discount":5 ,
+            "minimumquantity":1 ,
+            "maximumquantity":20 ,
+            "taxRate":6 ,
+            "tags": [
+                "traditional","kurta"
+            ]
+    
+        },
+        {
+            "name": "T-shirt",
+            "category":"Women's Clothing",
+            "description":"T-shirts",
+            "servicePrices":[
+                {
+                    "serviceType":"Wash and Fold",
+                    "price":15
+                },
+                {
+                    "serviceType":"Ironing",
+                    "price":7
+                },
+                {
+                    "serviceType":"Alteration",
+                    "price":50
+                }
+            ],
+            "discount":0 ,
+            "minimumquantity":1 ,
+            "maximumquantity":20 ,
+            "taxRate":6 ,
+            "tags": [
+                "tshirt"
+            ]
+    
+            },
+            {
+                "name": "pant",
+                "category":"Women's Clothing",
+                "description":"trousers of all kind",
+                "servicePrices":[
+                    {
+                        "serviceType":"Wash and Fold",
+                        "price":10
+                    },
+                    {
+                        "serviceType":"Ironing",
+                        "price":7
+                    },
+                    {
+                        "serviceType":"Alteration",
+                        "price":70
+                    }
+                ],
+                "discount":0 ,
+                "minimumquantity":1 ,
+                "maximumquantity":20 ,
+                "taxRate":6 ,
+                "tags": [
+                    "trousers","pants"
+                ]
+        
+            },
+            {
+                "name": "shirt",
+                "category":"Women's Clothing",
+                "description":"shirts",
+                "servicePrices":[
+                    {
+                        "serviceType":"Wash and Fold",
+                        "price":15
+                    },
+                    {
+                        "serviceType":"Ironing",
+                        "price":10
+                    },
+                    {
+                        "serviceType":"Alteration",
+                        "price":70
+                    }
+                ],
+                "discount":0 ,
+                "minimumquantity":1 ,
+                "maximumquantity":20 ,
+                "taxRate":6 ,
+                "tags": [
+                    "shirt"
+                ]
+        
+            },
+            {
+                "name": "kurti",
+                "category":"Women's Clothing",
+                "description":"shirts",
+                "servicePrices":[
+                    {
+                        "serviceType":"Wash and Fold",
+                        "price":20
+                    },
+                    {
+                        "serviceType":"Ironing",
+                        "price":10
+                    },
+                    {
+                        "serviceType":"Alteration",
+                        "price":100
+                    }
+                ],
+                "discount":5 ,
+                "minimumquantity":1 ,
+                "maximumquantity":20 ,
+                "taxRate":6 ,
+                "tags": [
+                    "traditional","kurta"
+                ]
+        
+            }
+
+  ]
+}
+
+
+###
+GET http://localhost:4000/catalog/641d2b2742da3c99a9cf7af0/64251952a87b725bc3e53ea7
+content-type: application/json
+
+###
+post http://localhost:4000/catalog/641d2b2742da3c99a9cf7af0/64251952a87b725bc3e53ea7
+Content-Type: application/json
+
+{
+  "itemUpdate":{
+     "description": "Comfortable and stylish kurta for Men."
+  }
+}
+
+###
+DELETE  http://localhost:4000/catalog/641d2b2742da3c99a9cf7af0/64251952a87b725bc3e53ea7
+Content-Type: application/json
+
+
+# get catalog
+###   
+GET http://localhost:4000/catalog/641d2b2742da3c99a9cf7af0
+content-type: application/json
+
+# review
+###
+POST http://localhost:4000/review/641d2b2742da3c99a9cf7af0
+content-type: application/json
+
+  {
+  "userId": "641d2ca142da3c99a9cf7af2", 
+  "username": "testUser",
+  "rating": 5,
+  "comment": "I was impressed with Gite Laundry. Friendly staff, fast service, and clothes came back fresh. Prices were reasonable and attention to detail was excellent. Highly recommend."
+}
+
+###
+GET http://localhost:4000/review/641d2b2742da3c99a9cf7af0
+content-type: application/json
+
+
+# Address
+###
+POST http://localhost:4000/address/641d2b2742da3c99a9cf7af0
+content-type: application/json
+
+{
+  "newAddress":
+  {"address": "A-1, Sector 63, Noida, Uttar Pradesh 201301",
+  "name":"testUser",
+  "pinCode": "410504",
+  "mobileNo": "1234567890",
+  "city": "pune",
+  "state": "Maharashtra",
+  "isLsp":"true",
+  "country": "India"},
+  "isLsp":true
+}
+
+###
+GET http://localhost:4000/address/641d2b2742da3c99a9cf7af0
+content-type: application/json
+
+
+###
+GET http://localhost:4000/address/641d2b2742da3c99a9cf7af0/642ac022b2bf447906f37856
+content-type: application/json
+
+###
+PUT  http://localhost:4000/address/641d2b2742da3c99a9cf7af0/642ac05db2bf447906f37859?isLsp=true
+Content-Type: application/json
+
+{
+  "updatedAddress":{
+     "city": "Mumbai"
+
+  }
+}
+
+
+
+# cart
+###
+POST http://localhost:4000/cart/6440fe15703f528b7c6ce87b
+content-type: application/json
+
+{ 
+ "lspName":"om_laundry",
+"lspId":"643a3ea557efc17eaa97502a",
+ "cartItem":{
+  "itemName":"T-shirt",
+  "itemId": "643fb41dd568119fae954d80",
+  "quantity": 2,
+  "services": [
+    {
+      "serviceId": "643fb41dd568119fae954d82",
+      "serviceType": "Ironing",
+      "price": 7
+    }
+  ]}
+}
+
+
+###
+GET http://localhost:4000/cart/6440fe15703f528b7c6ce87b
+content-type: application/json
+
+
+###
+DELETE http://localhost:4000/cart/6440fe15703f528b7c6ce87b/643fb382b2b3554398c3cb27
+content-type: application/json
+
+
+###
+POST http://localhost:4000/cart/6440fe15703f528b7c6ce87b/6463159f8bafe4a92daf95c2
+content-type: application/json
+
+{
+  "quantity":22
+}
+# userData
+###
+
+###
+POST http://localhost:4000/order/6440fe15703f528b7c6ce87b
+content-type: application/json
+
+{
+ "orderItems": { 
+        "lspId":"643a3ea557efc17eaa97502a",
+        "itemName": "kurta",
+        "itemId": "643fb382b2b3554398c3cb27",
+        "lspName":"om_laundry",
+        "quantity": 2,
+        "services": [
+          {
+            "serviceId": "643fb382b2b3554398c3cb28",
+            "serviceType": "Wash and Fold",
+            "price": 7
+          }
+        ]
+      }
+}
+
+###
+
+
+GET http://localhost:4000/userData/641d2ca142da3c99a9cf7af2
+content-type: application/json
+
+
+
+# order
+
+### 
+GET http://localhost:4000/order/6440fe15703f528b7c6ce87b
+content-type: application/json
+
+###
+POST http://localhost:4000/order/6440fe15703f528b7c6ce87b
+content-type: application/json
+
+{
+  "orderItems":{
+      "LspId": "643a3ea557efc17eaa97502a", 
+      "lspName": "om_laundry",
+      "items": [
+        {
+          "itemName": "kurta",
+          "itemId": "643fb382b2b3554398c3cb27", 
+          "specialInstructions": "Special instructions for item 1",
+          "services": [
+            {
+              "serviceId": "643fb382b2b3554398c3cb28", 
+              "serviceType": "Wash and Fold",
+              "price": 50
+            },
+            {
+              "serviceId": "643fb382b2b3554398c3cb29",
+              "serviceType": "Dry Cleaning",
+              "price": 75
+            }
+          ],
+          "quantity": 2
+        },
+        {
+          "itemName": "shirt",
+          "itemId": "643fb41dd568119fae954d86", 
+          "specialInstructions": "Special instructions for item 2",
+          "services": [
+            {
+              "serviceId": "643fb41dd568119fae954d87", 
+              "serviceType": "Wash and Fold",
+              "price": 15
+            }
+          ],
+          "quantity": 1
+        }
+      ],
+      "expectedDeliveryDate": "2023-05-17T10:00:00.000Z"
+    
+  }
+}
+
+###
+GET  http://localhost:4000/order/6440fe15703f528b7c6ce87b/6470b2aa30e7c841f2c99111
+content-type: application/json
+

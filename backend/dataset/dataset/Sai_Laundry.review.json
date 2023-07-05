@@ -1,0 +1,64 @@
+{
+    "reviews":[
+    {
+    "userId":"11",
+    "username":"Vishal_Gorde",
+    "rating":1,
+    "comment":"I had to call them several times just to get my laundry delivered. So unprofessional!"
+    },
+    {
+    "userId":"12",
+    "username":"anjali_aher",
+    "rating":3,
+    "comment":"This laundry service is amazing! They're very accommodating and always willing to help with any special requests"
+    },
+    {
+    "userId":"13",
+    "username":"rohit_sabale",
+    "rating":4,
+    "comment":"Convenient and hassle-free, using this laundry service saved me a lot of time and effort."
+    },
+    {
+    "userId":"14",
+    "username":"nisha_patil",
+    "rating":2,
+    "comment":"Horrible experience"
+    },
+    {
+    "userId":"15",
+    "username":"siddharth_19",
+    "rating":3,
+    "comment":"I had to wait hours for my laundry to be ready. It was a huge inconvenience."
+    },
+    {
+    "userId":"16",
+    "username":"shruti_saxena",
+    "rating":2,
+    "comment":"Horrible experience, my clothes were not even sorted properly and ended up getting damaged."
+    },
+    {
+    "userId":"17",
+    "username":"rohanmishra",
+    "rating":3,
+    "comment":"Convenient and hassle-free, using this laundry service saved me a lot of time and effort."
+    },
+    {
+    "userId":"18",
+    "username":"akash_vikhe",
+    "rating":4,
+    "comment":"The laundry service is very professional and thorough. I would definitely recommend them to anyone."
+    },
+    {
+    "userId":"19",
+    "username":"manoj_salunkhe",
+    "rating":3,
+    "comment":"I will never use this laundry service again after they lost a pair of my expensive pants."
+    },
+    {
+    "userId":"20",
+    "username":"ritik_bendre",
+    "rating":2,
+    "comment":"The quality of their work is subpar at best, I would not recommend this laundry service to anyone."
+    }
+    ]
+    }

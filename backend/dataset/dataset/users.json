@@ -1,0 +1,173 @@
+[{
+  "_id": {
+    "$oid": "64354b69eafc1fc73bf98d93"
+  },
+  "username": "test User",
+  "email": "test@gmail.com",
+  "password": "pass123",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      21.1458004,
+      79.0881546
+    ]
+  },
+  "createdAt": {
+    "$date": "2023-04-11T11:58:33.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T11:58:33.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa975017"
+  },
+  "username": "Vishal Gorde",
+  "email": "vishalg234@gmail.com",
+  "password": "password1",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.5789687,
+      74.4677098
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa975018"
+  },
+  "username": "anjali aher",
+  "email": "anjaliaher3432@gmail.com",
+  "password": "password2",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.5791364,
+      74.4675677
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa975019"
+  },
+  "username": "rohit sabale",
+  "email": "rohit999@gmail.com",
+  "password": "password3",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.5793478,
+      74.4677913
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa97501a"
+  },
+  "username": "nisha patil",
+  "email": "nishapatil4774@gmail.com",
+  "password": "password4",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.5790758,
+      74.4674533
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa97501b"
+  },
+  "username": "siddharth_19",
+  "email": "siddharth19@gmail.com",
+  "password": "password5",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.577395,
+      74.462319
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa97501c"
+  },
+  "username": "shruti saxena",
+  "email": "shruti.saxena@gmail.com",
+  "password": "password6",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.577714,
+      74.462293
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa97501d"
+  },
+  "username": "rohan mishra",
+  "email": "rohan.mishra@gmail.com",
+  "password": "password7",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.577072,
+      74.464509
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa97501e"
+  },
+  "username": "akash vikhe",
+  "email": "akashvikhe@gmail.com",
+  "password": "password8",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.076,
+      72.8777
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa97501f"
+  },
+  "username": "manoj salunkhe",
+  "email": "manojs1243@gmail.com",
+  "password": "password9",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.577244,
+      74.463405
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "643a3d0a57efc17eaa975020"
+  },
+  "username": "ritik bendre",
+  "email": "ritika9876@gmail.com",
+  "password": "password10",
+  "isAdmin": false,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      19.576563,
+      74.463191
+    ]
+  }
+}]

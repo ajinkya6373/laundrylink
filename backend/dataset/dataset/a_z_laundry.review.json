@@ -1,0 +1,99 @@
+// db.reviews.insertMany([
+//     {
+//       "_id": ObjectId("643a3ea557efc17eaa975022"),
+//       "reviewList": [
+        // {
+        //   "_id": ObjectId(),
+        //   "userId": ObjectId("643a3d0a57efc17eaa975017"),
+        //   "username": "Vishal_Gorde",
+        //   "rating": 4,
+        //   "comment": "The laundry service was fantastic. My clothes looked and smelled amazing!",
+        //   "createdAt": ISODate("2020-04-15T00:00:00.000Z"),
+        //   "updatedAt": ISODate("2021-06-30T00:00:00.000Z")
+        // },
+//         {
+//           "_id": ObjectId(),
+//           "userId": ObjectId("643a3d0a57efc17eaa975018"),
+//           "username": "anjali_aher",
+//           "rating": 2,
+//           "comment": "My clothes came back with stains and wrinkles. I was really disappointed.",
+//           "createdAt": ISODate("2020-05-15T00:00:00.000Z"),
+//           "updatedAt": ISODate("2022-01-30T00:00:00.000Z")
+//         },
+//         {
+//           "_id": ObjectId(),
+//           "userId": ObjectId("643a3d0a57efc17eaa975019"),
+//           "username": "rohit_sabale",
+//           "rating": 5,
+//           "comment": "Super quick and efficient service. I got my clothes back the same day!",
+//           "createdAt": ISODate("2020-06-15T00:00:00.000Z"),
+//           "updatedAt": ISODate("2022-02-20T00:00:00.000Z")
+//         },
+//         {
+//           "_id": ObjectId(),
+//           "userId": ObjectId("643a3d0a57efc17eaa97501a"),
+//           "username": "nisha_patil",
+//           "rating": 2,
+//           "comment": "The laundry service lost one of my shirts and didn't offer any compensation.",
+//           "createdAt": ISODate("2020-07-15T00:00:00.000Z"),
+//           "updatedAt": ISODate("2022-03-25T00:00:00.000Z"),
+          
+//         },
+//         {
+//           "_id": ObjectId(),
+//           "userId": ObjectId("643a3d0a57efc17eaa97501b"),
+//           "username": "siddharth_19",
+//           "rating": 3,
+//           "comment": "I had to wait hours for my laundry to be ready. It was a huge inconvenience.",
+//           "createdAt": ISODate("2021-05-10T09:15:00.000Z"),
+//       "updatedAt": ISODate("2021-05-11T14:00:00.000Z")
+//         },
+//         {
+//           "_id": ObjectId(),
+//           "userId": ObjectId("643a3d0a57efc17eaa97501c"),
+//           "username": "shruti_saxena",
+//           "rating": 5,
+//           "comment": "The staff was friendly and helpful. They even helped me carry my laundry to my car.",
+//           "createdAt": ISODate("2022-03-15T17:30:00.000Z"),
+//           "updatedAt": ISODate("2022-03-16T11:40:00.000Z")
+//         },
+//         {
+//           "_id": ObjectId(),
+//           "userId": ObjectId("643a3d0a57efc17eaa97501d"),
+//           "username": "rohan mishra",
+//           "rating": 4,
+//           "comment": "Affordable prices and high-quality service. I'll definitely be back!",
+//           "createdAt": ISODate("2020-10-20T08:45:00.000Z"),
+//           "updatedAt": ISODate("2020-10-21T15:20:00.000Z")
+//         },
+//         {
+//           "_id": ObjectId(),
+//           "userId": ObjectId("643a3d0a57efc17eaa97501e"),
+//           "username": "akash_vikhe",
+//           "rating": 5,
+//           "comment": "My clothes came back folded perfectly. I didn't have to lift a finger!",
+//           "createdAt": ISODate("2020-09-15T00:00:00.000Z"),
+//           "updatedAt": ISODate("2021-11-15T00:00:00.000Z")
+//         },
+//         {
+//           "_id": ObjectId(),
+//           "userId": ObjectId("643a3d0a57efc17eaa97501f"),
+//           "username": "manoj_salunkhe",
+//           "rating": 2,
+//           "comment": "The staff was rude and unhelpful. I won't be using this service again.",
+//           "createdAt": ISODate("2020-09-15T00:00:00.000Z"),
+//           "updatedAt": ISODate("2021-11-15T00:00:00.000Z")
+//         },
+//         {
+//           "_id": ObjectId(),
+//           "userId": ObjectId("643a3d0a57efc17eaa975020"),
+//           "username": "ritik_bendre",
+//           "rating": 3,
+//           "comment": "The prices were too high for the poor quality of the service. I expected more.",
+//           "createdAt": ISODate("2020-08-15T00:00:00.000Z"),
+//           "updatedAt": ISODate("2021-12-10T00:00:00.000Z")
+//         }
+//       ]
+//     }
+// ])
+  
